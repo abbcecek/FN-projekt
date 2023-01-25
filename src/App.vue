@@ -4,9 +4,12 @@
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
     </div>
-    <router-view />
+    <div class="h-80 w-screen flex justify-center">
+      <p class="text-2xl">Hejsannnn</p>
+    </div>
   </div>
 </template>
+
 
 <style>
 #app {
