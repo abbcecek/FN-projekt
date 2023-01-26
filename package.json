@@ -46,5 +46,18 @@
     "> 1%",
     "last 2 versions",
     "not dead"
-  ]
+  ],
+  "description": "- Hur är den uppbyggd?",
+  "main": "babel.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abbcecek/FN-projekt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abbcecek/FN-projekt/issues"
+  },
+  "homepage": "https://github.com/abbcecek/FN-projekt#readme"
 }

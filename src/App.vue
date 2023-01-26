@@ -5,7 +5,8 @@
       <router-link to="/about">About</router-link>
     </div>
     <div class="h-80 w-screen flex justify-center">
-      <p class="text-2xl">Hejsannnn</p>
+      <p class="text-2xl bg-themeblue-200">Hejsannnn</p>
+      <p class="text-2xl bg-themeblue-100">Hejsan</p>
     </div>
   </div>
 </template>
